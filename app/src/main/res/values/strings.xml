@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">trgovina</string>
+    <string name="trgovina">Trgovina</string>
+    <string name="username">Korisnicko ime</string>
+    <string name="password">Lozinka</string>
+    <string name="repeat_password">Ponovi lozinku</string>
+    <string name="login">Prijavi se</string>
+    <string name="register">Registriraj se</string>
+    <string name="productName">Naziv proizvoda</string>
+    <string name="productDescription">Opis proizvoda</string>
+    <string name="productPrice">Cijena proizvoda</string>
+    <string name="publishProduct">Objavi proizvod</string>
+    <string name="chooseImage">Odaberi sliku</string>
+    <string name="hello_blank_fragment">Registriraj se</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="image">Image</string>
+    <string name="back">Back</string>
+    <string name="contact">Kontakt</string>
+    <string name="search">Pretrazi</string>
+</resources>

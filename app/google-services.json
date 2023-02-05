@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854377040366",
+    "project_id": "trgovina-45894",
+    "storage_bucket": "trgovina-45894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854377040366:android:7509857c43b8a899d3a6ff",
+        "android_client_info": {
+          "package_name": "hr.ferit.brunopetric.trgovina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854377040366-c51a89fhojkg921ll8cno2ie7cnpn38c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJLOAFDS_JfNN7IJxnT5eVxCyRzsV29Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854377040366-c51a89fhojkg921ll8cno2ie7cnpn38c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
